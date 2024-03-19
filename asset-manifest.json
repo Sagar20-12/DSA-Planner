@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DSA-Planner/static/css/main.b9d415ff.css",
+    "main.js": "/DSA-Planner/static/js/main.2f109420.js",
+    "static/js/453.406672ca.chunk.js": "/DSA-Planner/static/js/453.406672ca.chunk.js",
+    "index.html": "/DSA-Planner/index.html",
+    "main.b9d415ff.css.map": "/DSA-Planner/static/css/main.b9d415ff.css.map",
+    "main.2f109420.js.map": "/DSA-Planner/static/js/main.2f109420.js.map",
+    "453.406672ca.chunk.js.map": "/DSA-Planner/static/js/453.406672ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9d415ff.css",
+    "static/js/main.2f109420.js"
+  ]
+}
